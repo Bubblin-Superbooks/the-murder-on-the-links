@@ -1,0 +1,22 @@
+{
+  "name": "The Murder on the Links",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-murder-on-the-links/master/assets",
+  "book_id": 834,
+  "book_url": "http://bubblin.io/book/the-murder-on-the-links-by-agatha-christie"
+}
