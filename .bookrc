@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "",
+    "punchline": "Two people rarely see the same thing.",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -18,5 +18,5 @@
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/the-murder-on-the-links/master/assets",
   "book_id": 834,
-  "book_url": "http://bubblin.io/book/the-murder-on-the-links-by-agatha-christie"
+  "book_url": "https://bubblin.io/book/the-murder-on-the-links-by-agatha-christie"
 }
